@@ -49,9 +49,19 @@ Dự án được thực hiện bởi **ThanhNguyen**. Người dùng hoàn toà
 - Youtube : `https://www.youtube.com/@ThanhNguyen_17345`
 - Discord ID account : `1379310041903140895`
 - Github : CHỖ NÀY 🤣 `https://github.com/Thanhnguyen123-men`
+- Website (non-DNS private) : `https://sites.google.com/view/thanhnguyen-vn/trang-ch%E1%BB%A7`
 --
 > [!TIP]
 > Nếu bạn không muốn tải tool, có thể dùng lệnh Windows gốc:
 > `chkdsk C: /f /r /x` (Chạy với quyền Administrator).
 > VÀ nếu nó ở chỗ khác ví dụ : D:\abc\..\node
 > Thì nhập `CHKDSK D: /f /r /x`
+--
+> {TIP ngoài lề}
+**Bro muốn có một trang web riêng để "khè" dự án nhưng méo có tiền mua tên miền và hosting? Yên tâm, đã có Netlify lo**
+1. Truy cập: https://app.netlify.com/
+2. Chỉ việc ném folder code (HTML/JS) vào mục Deploy.
+3. Chỉnh tên miền tùy ý theo dạng: ten-cua-bro.netlify.app
+4. Thế là xong, có ngay web xịn, load nhanh mà quan trọng là FREE!
+> KHÔNG HIỂU THỨ GÌ THÌ DÙNG CHAT-BOT-AI để hỏi :)
+- Gé thăm một chút về bot discord của tui : `https://moderationskibidi.netlify.app/`
