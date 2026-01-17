@@ -1,0 +1,7 @@
+ĐIỀU KHOẢN SỬ DỤNG:
+- Công cụ này được cung cấp "AS IS" (có sao dùng vậy).
+- Người phát triển không chịu bất kỳ trách nhiệm nào về việc mất dữ liệu hoặc hỏng hóc hệ thống do người dùng sử dụng công cụ để can thiệp vào các tệp tin hệ thống.
+- Tuyệt đối không sử dụng công cụ cho các mục đích phá hoại hoặc trái pháp luật.
+- Việc bạn chạy file .exe này đồng nghĩa với việc bạn chấp nhận các điều khoản trên.
+- Cuối cùng chỉ chạy khi gặp file/folder cứng đầu + không xóa được + không move được thì mới dùng 
+- Táy máy thì chết thì PHẢI CHỊU

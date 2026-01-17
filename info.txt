@@ -1,0 +1,9 @@
+- App Name: NTFS Zombie Hunter Pro
+- Version: v1.1.0-Ultimate
+- Build Date: 2026-01-17
+- Engine: Python 3.x + WinAPI (ctypes)
+- GUI: Tkinter Custom Dark
+- Developer: ThanhNguyen
+- Status: Stable
+
+* Ghi chú: Bộ công cụ này gồm 2 phiên bản: Standard (chạy ngay) và Admin (quét sâu hệ thống).
