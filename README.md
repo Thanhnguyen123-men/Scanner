@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tính năng nổi bật
+## 🚀 Tính năng nổi bật đã được thêm như :
 - **NTFS Deep Scan**: Thuật toán quét sâu hiệu năng cao, tối ưu cho các ổ đĩa lớn.
 - **Zombie & Reparse Point Detection**: Nhận diện chính xác Junction, Symbolic Link và các liên kết bị hỏng (Zombies).
 - **Dual Mode Support**:
