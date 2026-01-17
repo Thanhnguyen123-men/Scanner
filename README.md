@@ -27,11 +27,15 @@
 2. Sử dụng bản **Standard** cho các tác vụ thông thường.
 3. Sử dụng bản **ADMIN** để truy cập sâu vào các folder hệ thống (giúp đọc đúng các mã TAG như `0xa0000003`).
 
-## LƯU Ý 
+## 🗣 LƯU Ý 
 - Bạn thấy Windown smart screen bật lên thì kệ mẹ nó vì nó rất bình thường (do app tự build chưa mua chứng chỉ mà muốn có thì phải có tiền mà bro biết tui làm méo gì có tiền :) )
 - Bấm **More info** rồi bấn **Run anyway** 
 - đợi 1 chút rồi sẽ có thành phẩm :) 
+- Tool này chỉ "sủa" – nó phát hiện và báo cáo.
+- Quyết định xử lý hay không là việc của bạn. `(cách khuyên dùng là CHKDSK ở !TIP)`
+
 ![Screenshot 2026-01-17 073835](https://github.com/user-attachments/assets/5858f124-8d7c-407e-8d94-2dd06d06e78c)
+
 <img width="777" height="532" alt="image" src="https://github.com/user-attachments/assets/53a5fe03-677f-49bf-a9ef-bbe7e9d77e5a" />
 
 ## ⚠️ Miễn trừ trách nhiệm
