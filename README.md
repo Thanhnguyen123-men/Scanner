@@ -1,4 +1,4 @@
-# 💀 NTFS Zombie Hunter Pro 💀
+# 🔥 NTFS Zombie Hunter Pro 🔥 
 [![Version](https://img.shields.io/badge/version-1.1.0--Ultimate-red.svg)](https://github.com/Thanhnguyen123-men/Scanner)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 
@@ -56,6 +56,8 @@ Dự án được thực hiện bởi **ThanhNguyen**. Người dùng hoàn toà
 > `chkdsk C: /f /r /x` (Chạy với quyền Administrator).
 > VÀ nếu nó ở chỗ khác ví dụ : D:\abc\..\node
 > Thì nhập `CHKDSK D: /f /r /x`
+> sau đó restart máy (**ĐỪNG TẮT MÁY NẾU KHÔNG DÍNH THÊM BUG RÁNG CHỊU**)
+> nếu ko triệt hạ được thì..... cố tìm phương pháp khác
 --
 > {TIP ngoài lề}
 **Bro muốn có một trang web riêng để "khè" dự án nhưng méo có tiền mua tên miền và hosting? Yên tâm, đã có Netlify lo**
@@ -65,3 +67,7 @@ Dự án được thực hiện bởi **ThanhNguyen**. Người dùng hoàn toà
 4. Thế là xong, có ngay web xịn, load nhanh mà quan trọng là FREE!
 > KHÔNG HIỂU THỨ GÌ THÌ DÙNG CHAT-BOT-AI để hỏi :)
 - Gé thăm một chút về bot discord của tui : `https://moderationskibidi.netlify.app/`
+# lý do build
+> đơn giản là từng bị 1 folder zombie lỗi cấp NTFS , nó mạnh đến mức `del` hay `rd` , `move` cũng không có tác dụng ngay cả WinRE (cmd) hoặc cmd quyền TrustedInstaler
+> khi dùng đòn chkdsk thì mới thành công xóa nó (trường hợp khác giống tui là vẫn còn nhưng xóa đc )
+> đơn giản vậy thôi :)
