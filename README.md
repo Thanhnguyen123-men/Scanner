@@ -71,3 +71,7 @@ Dự án được thực hiện bởi **ThanhNguyen**. Người dùng hoàn toà
 > đơn giản là từng bị 1 folder zombie lỗi cấp NTFS , nó mạnh đến mức `del` hay `rd` , `move` cũng không có tác dụng ngay cả WinRE (cmd) hoặc cmd quyền TrustedInstaler
 > khi dùng đòn chkdsk thì mới thành công xóa nó (trường hợp khác giống tui là vẫn còn nhưng xóa đc )
 > đơn giản vậy thôi :)
+# Bằng chứng SHA 256
+<img width="1385" height="855" alt="image" src="https://github.com/user-attachments/assets/2ba2753f-eb1e-4285-a654-6d6dde877917" />
+dùng lệnh ở powershell (phải đúng chổ tải file)
+`Get-FileHash Hunter_Ultimate.exe, Hunter_Ultimate_ADMINISTRATOR.exe | Format-Table -AutoSize`
