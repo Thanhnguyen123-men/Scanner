@@ -76,5 +76,7 @@ Dự án được thực hiện bởi **ThanhNguyen**. Người dùng hoàn toà
 dùng lệnh ở powershell (phải đúng chỗ tải file)
 
 > `Get-FileHash Hunter_Ultimate.exe, Hunter_Ultimate_ADMINISTRATOR.exe | Format-Table -AutoSize`
+
 > Admin : `98F38F86F76ACA29E8C58182CA5D7A8DF1A6FF5D1D71E192F35C97A69D17C240`
+
 > Level Users : `4E810CC1F772CBF6ADC8A4D8543FAE3CB9E37B4EE2B4BB70EAAD8C75B57EE143`
