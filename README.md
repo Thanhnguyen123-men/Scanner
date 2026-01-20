@@ -73,7 +73,7 @@ Dự án được thực hiện bởi **ThanhNguyen**. Người dùng hoàn toà
 > đơn giản vậy thôi :)
 # Bằng chứng SHA 256
 <img width="1385" height="855" alt="image" src="https://github.com/user-attachments/assets/2ba2753f-eb1e-4285-a654-6d6dde877917" />
-dùng lệnh ở powershell (phải đúng chỗ tải file)
+Dùng lệnh ở powershell (phải đúng chỗ tải file) và **TUYỆT ĐỐI File phải là bản gốc, chưa chỉnh sửa, tải trực tiếp từ repo thì SHA-256 mới khớp** `chứ chỉnh sửa dù 1 dòng command ở ở source code sẽ làm thay đổi SHA 256 dù 1 chút`
 
 > `Get-FileHash Hunter_Ultimate.exe, Hunter_Ultimate_ADMINISTRATOR.exe | Format-Table -AutoSize`
 
