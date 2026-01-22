@@ -1,7 +1,17 @@
-ĐIỀU KHOẢN SỬ DỤNG:
-- Công cụ này được cung cấp "AS IS" (có sao dùng vậy).
-- Người phát triển không chịu bất kỳ trách nhiệm nào về việc mất dữ liệu hoặc hỏng hóc hệ thống do người dùng sử dụng công cụ để can thiệp vào các tệp tin hệ thống.
-- Tuyệt đối không sử dụng công cụ cho các mục đích phá hoại hoặc trái pháp luật.
-- Việc bạn chạy file .exe này đồng nghĩa với việc bạn chấp nhận các điều khoản trên.
-- Cuối cùng chỉ chạy khi gặp file/folder cứng đầu + không xóa được + không move được thì mới dùng 
-- Táy máy thì chết thì PHẢI CHỊU
+ĐIỀU KHOẢN SỬ DỤNG :
+- Công cụ này được cung cấp theo nguyên trạng ("AS IS").
+  Không có bất kỳ bảo đảm nào, kể cả khi bạn *tin rằng mình biết mình đang làm gì*.
+- Tác giả không chịu trách nhiệm cho mất dữ liệu, hư hỏng hệ thống,
+  hoặc các hậu quả phát sinh do việc sử dụng công cụ này.
+  (Có backup mà vẫn mất thì… vẫn là của bạn.)
+- Công cụ KHÔNG dành cho người dùng tò mò, thử cho vui,
+  hoặc muốn "xem nó làm được gì".
+  Nếu bạn đang đọc dòng này mà vẫn muốn thử → hãy cân nhắc lại.
+- Chỉ sử dụng khi nghi ngờ có file hoặc thư mục cứng đầu
+- Tuyệt đối không sử dụng công cụ cho mục đích phá hoại,
+  can thiệp trái phép, hoặc vi phạm pháp luật.
+- Việc chạy file .exe đồng nghĩa với việc bạn đã đọc,
+  hiểu, và chấp nhận toàn bộ rủi ro liên quan.
+- Nếu hệ thống gặp sự cố, trách nhiệm thuộc về người chạy — không phải người viết.
+
+> Chấm hết
