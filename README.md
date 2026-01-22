@@ -59,6 +59,7 @@ Dự án được thực hiện bởi **ThanhNguyen**. Người dùng hoàn toà
 > sau đó restart máy (**ĐỪNG TẮT MÁY NẾU KHÔNG DÍNH THÊM BUG RÁNG CHỊU**)
 > nếu ko triệt hạ được thì..... cố tìm phương pháp khác
 --
+
 > {TIP ngoài lề}
 **Bro muốn có một trang web riêng để "khè" dự án nhưng méo có tiền mua tên miền và hosting? Yên tâm, đã có Netlify lo**
 1. Truy cập: https://app.netlify.com/
