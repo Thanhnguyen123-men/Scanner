@@ -85,3 +85,13 @@ Dùng lệnh ở powershell (phải đúng chỗ tải file) và
 > Admin : `98F38F86F76ACA29E8C58182CA5D7A8DF1A6FF5D1D71E192F35C97A69D17C240`
 
 > Level Users : `4E810CC1F772CBF6ADC8A4D8543FAE3CB9E37B4EE2B4BB70EAAD8C75B57EE143`
+
+___________________________________________________________________________________________
+
+# UPDATE
+
+Bản v1.4.7 đã thêm Digital Signatures nên SHA256 cập nhật là
+
+> `Scanner.exe` : `CD11620B27608342B0529BA994A67D5ADE879BAF15B0963E25B2A2B014B7E707`
+
+> `Scanner_Administrator.exe` : `007CFE465FC409D75D782D479112B4BA9CFE719E33A2B08134929C610EA931A5`
